@@ -1,0 +1,49 @@
+{
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "files.autoSave": "onFocusChange",
+    "editor.detectIndentation": false,
+    "editor.definitionLinkOpensInPeek": true,
+    "editor.cursorBlinking": "expand",
+    "workbench.colorTheme": "One Dark Pro",
+    "workbench.preferredHighContrastColorTheme": "One Dark Pro",
+    "workbench.preferredHighContrastLightColorTheme": "One Dark Pro",
+    "workbench.preferredLightColorTheme": "One Dark Pro",
+    "workbench.iconTheme": "material-icon-theme",
+    "[dockerfile]": {
+        "editor.defaultFormatter": "ms-azuretools.vscode-docker"
+    },
+    "window.zoomLevel": 1,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.tabSize": 4,
+    "prettier.tabWidth": 4,
+    "editor.codeActionsOnSave": {
+        "source.addMissingImports.ts": "always",
+        "source.organizeImports": "always",
+        "source.sortImports": "always"
+    },
+    "editor.fontFamily": "CommitMono, Consolas, 'Courier New', monospace",
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "indentRainbow.colors": [
+        "rgba(255,255,64,0.1)",
+        "rgba(127,255,127,0.1)",
+        "rgba(255,127,255,0.1)",
+        "rgba(79,236,236,0.1)"
+    ],
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true
+    },
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.wordWrap": "on",
+    "editor.wordWrapColumn": 140,
+    "chat.commandCenter.enabled": false,
+    "editor.inlineSuggest.enabled": false,
+    "workbench.editor.empty.hint": "hidden"
+}
