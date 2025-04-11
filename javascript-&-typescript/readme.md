@@ -7,7 +7,7 @@ Installing a development environment for Javascript & Typescript for Visual Stud
 Retrieve the profile file to import into vscode:
 
 ```bash
-curl -O https://raw.githubusercontent.com/DylanBOLLARO/vscode-settings/refs/heads/main/javascript-&-typescript/JS_TS.code-profile
+curl -O https://raw.githubusercontent.com/DylanBOLLARO/vscode-settings/refs/heads/main/javascript-%26-typescript/JS_TS.code-profile
 ```
 
 On vscode, go to settings then profiles. Select the button to import a profile and select the downloaded file then create the profile.
