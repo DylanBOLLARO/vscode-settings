@@ -19,7 +19,6 @@
     "prettier.tabWidth": 4,
     "editor.codeActionsOnSave": {
         "source.addMissingImports.ts": "always",
-        "source.organizeImports": "always",
         "source.sortImports": "always"
     },
     "editor.fontFamily": "CommitMono, Consolas, 'Courier New', monospace",
@@ -27,12 +26,7 @@
     "explorer.confirmDragAndDrop": false,
     "javascript.updateImportsOnFileMove.enabled": "always",
     "typescript.updateImportsOnFileMove.enabled": "always",
-    "indentRainbow.colors": [
-        "rgba(255,255,64,0.1)",
-        "rgba(127,255,127,0.1)",
-        "rgba(255,127,255,0.1)",
-        "rgba(79,236,236,0.1)"
-    ],
+    "indentRainbow.colors": ["rgba(255,255,64,0.1)", "rgba(127,255,127,0.1)", "rgba(255,127,255,0.1)", "rgba(79,236,236,0.1)"],
     "files.exclude": {
         "**/.git": true,
         "**/.svn": true,
@@ -42,8 +36,10 @@
     },
     "editor.cursorSmoothCaretAnimation": "on",
     "editor.wordWrap": "on",
-    "editor.wordWrapColumn": 140,
     "chat.commandCenter.enabled": false,
     "editor.inlineSuggest.enabled": false,
-    "workbench.editor.empty.hint": "hidden"
+    "workbench.editor.empty.hint": "hidden",
+    "workbench.startupEditor": "none",
+    "editor.wordWrapColumn": 180,
+    "prettier.printWidth": 180
 }
