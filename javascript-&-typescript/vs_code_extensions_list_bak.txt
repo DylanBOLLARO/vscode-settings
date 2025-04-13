@@ -1,3 +1,4 @@
+aaron-bond.better-comments
 bradlc.vscode-tailwindcss
 christian-kohler.path-intellisense
 dbaeumer.vscode-eslint
@@ -18,7 +19,6 @@ oderwat.indent-rainbow
 pkief.material-icon-theme
 pmneo.tsimporter
 prisma.prisma
-rangav.vscode-thunder-client
 stringham.move-ts
 usernamehw.errorlens
 vivaxy.vscode-conventional-commits

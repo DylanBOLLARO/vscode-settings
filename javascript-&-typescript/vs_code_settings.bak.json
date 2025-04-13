@@ -41,5 +41,8 @@
     "workbench.editor.empty.hint": "hidden",
     "workbench.startupEditor": "none",
     "editor.wordWrapColumn": 180,
-    "prettier.printWidth": 180
+    "prettier.printWidth": 180,
+    "[prisma]": {
+        "editor.defaultFormatter": "Prisma.prisma"
+    }
 }
